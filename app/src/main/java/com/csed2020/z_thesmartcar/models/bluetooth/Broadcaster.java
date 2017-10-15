@@ -5,4 +5,5 @@ package com.csed2020.z_thesmartcar.models.bluetooth;
  */
 
 public interface Broadcaster {
+    void setObserver(Observer observer);
 }

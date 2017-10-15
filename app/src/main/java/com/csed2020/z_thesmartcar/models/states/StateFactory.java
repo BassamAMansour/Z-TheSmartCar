@@ -5,4 +5,9 @@ package com.csed2020.z_thesmartcar.models.states;
  */
 
 public class StateFactory {
+
+    public static State getState (int state){
+        //TODO implement method
+        return null;
+    }
 }

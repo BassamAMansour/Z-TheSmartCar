@@ -5,4 +5,6 @@ package com.csed2020.z_thesmartcar.models;
  */
 
 public interface Machine {
+    void setState(int state);
+    void setState(int state,String message);
 }

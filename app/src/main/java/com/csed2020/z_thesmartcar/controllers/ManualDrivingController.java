@@ -5,4 +5,9 @@ package com.csed2020.z_thesmartcar.controllers;
  */
 
 public interface ManualDrivingController {
+    void moveForward();
+    void moveBackward();
+    void steerRight();
+    void steerLeft();
+    void setPower(float powerLevel);
 }

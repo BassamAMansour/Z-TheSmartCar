@@ -1,0 +1,3 @@
+- System lock down during illegal moves -> UI lock down ? Full system lock down?
+- Transmission Data implementation
+- State message alerts to UI, callbacks? runnable? 
